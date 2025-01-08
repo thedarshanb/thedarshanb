@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋 , I'm Darshan </h1>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Aspiring Cloud Engineer;Tech+Enthusiast;CSE+Undergraduated"/p>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Aspiring Cloud Engineer;Tech+Enthusiast;"CSE+Undergraduate" </p>
 <br>
   
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
