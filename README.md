@@ -3,13 +3,13 @@
 <h1 align="center">Hi👋 , I'm Darshan </h1>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Aspiring Cloud Engineer;Tech+Enthusiast;"CSE+Undergraduate" </p>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Back+End+Developer;Tech+Enthusiast;CSE+Undergrad"/>
 <br>
   
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">Iam Recently Graduated </p>
+<p align="center" width="150px">I am completed Bachelor of Engineering -BE at Visvesvaraya Technology University</p>
 </p>
 <br>
 
