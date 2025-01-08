@@ -2,6 +2,7 @@
 I'm currenty learning Cloud computing
 
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
+<br>
 
 
 # 🧑‍💻 Tech Skills: 
