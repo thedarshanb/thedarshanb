@@ -1,7 +1,7 @@
 # Hi 👋 I'm Darshan  
 I'm currenty learning Cloud computing
 
-<img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+
 
 
 # 🧑‍💻 Tech Skills: 
