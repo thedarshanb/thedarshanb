@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">I am completed Bachelor of Engineering -BE at Visvesvaraya Technology University</p>
+<p align="center" width="150px"></p>
 </p>
 <br>
 
