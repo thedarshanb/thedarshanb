@@ -5,7 +5,7 @@
 <h1 align="center">Hi👋 , I'm Darshan B</h1>
 <p align="center">
     <img align="center" width="100%"
-        src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=600&lines=Computer+Science+Engineeer;Currently+Learning+DevOps,+AWS;Tech+Enthusiast" />
+        src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Currently+Learning+Software+Testing;Tech+Enthusiast" />
 </p>
 
 <p align="center">
@@ -14,11 +14,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=thedarshanb" alt="thedarshanb" /></a> </p>
 
-- 🔭 I’m currently working on **Python Project**
+- 🔭 I’m currently learning **Software Testing**
 
-- 🌱 I’m currently learning **DevOps, AWS**
-
-- 💬 Ask me about **Python, AWS, DevOps**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **thedarshanb@gmal.com**
 
@@ -53,21 +51,21 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="JavaScript" width="40" height="40" /></a>
-    <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
+<!--     <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"
-            alt="Ansible" width="40" height="40" /> </a>
-    <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+            alt="Ansible" width="40" height="40" /> </a> -->
+<!--     <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
-            alt="Terraform" width="40" height="40" /> </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+            alt="Terraform" width="40" height="40" /> </a> -->
+<!--     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"
-            height="40" /></a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+            height="40" /></a> -->
+<!--     <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-            height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            height="40" /> </a> -->
+<!--     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" /> </a>
+            alt="docker" width="40" height="40" /> </a> -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
@@ -76,11 +74,16 @@
             alt="mysql" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a>
+            alt="python" width="40" height="40" /> </a> 
     <a href="https://www.postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"
-            height="40" />
-    </a>
+            height="40" /> </a>
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40" />
+         </a>
+
+
+    
 
 </p>
 
