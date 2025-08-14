@@ -5,7 +5,7 @@
 <h1 align="center">Hi👋 , I'm Darshan B</h1>
 <p align="center">
     <img align="center" width="100%"
-        src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;Currently+Learning+Software+Testing;Tech+Enthusiast" />
+        src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=600&lines=Software+QA+Tester;Tech+Enthusiast" />
 </p>
 
 <p align="center">
@@ -13,13 +13,7 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=thedarshanb" alt="thedarshanb" /></a> </p>
-
-- 🔭 I’m currently learning **Software Testing**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **thedarshanb@gmal.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/thedarshanb/" target="blank"><img align="center"
