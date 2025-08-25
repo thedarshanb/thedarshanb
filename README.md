@@ -11,9 +11,10 @@
 <p align="center">
     <img align="center" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=thedarshanb-ma&theme=gruvbox" alt="thedarshanb" /></a> </p>
-  
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/thedarshanb/" target="blank"><img align="center"
