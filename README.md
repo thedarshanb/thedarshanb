@@ -5,7 +5,7 @@
 <h1 align="center">Hi👋 , I'm Darshan B</h1>
 <p align="center">
      <img align="center" width="100%"
-          src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=200&lines=Software+Engineer;Tech+Enthusiast" />
+          src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=400&lines=Software+Engineer;Tech+Enthusiast" />
 </p>
 
 <p align="center">
