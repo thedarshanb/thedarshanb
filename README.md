@@ -5,7 +5,7 @@
 <h1 align="center">Hi👋 , I'm Darshan B</h1>
 <p align="center">
      <img align="center" width="100%"
-          src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=600&lines=Software+QA+Engineer;Tech+Enthusiast" />
+          src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=600&lines=Software+Engineer;Tech+Enthusiast" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Python, AWS, QA Testing**
 
-- 📫 How to reach me **thedarshanb@gmal.com**
+- 📫 Reach me at **thedarshanb@gmal.com**
 
 
 <h3 align="left">Connect with me:</h3>
