@@ -14,7 +14,7 @@
 <hr>
 
 [![📄 View
-Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Kt_ZsvBTf4BRQufz5tC7lLan5uGuxHLt/view?usp=drive_link)
+Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15OIMhFVRLowYi4sK7V_vpzbKbavHoDMg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
