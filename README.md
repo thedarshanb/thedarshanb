@@ -1,85 +1,106 @@
-<p align="left"> <img
-          src="https://komarev.com/ghpvc/?username=thedarshanb&label=Profile%20views&color=0e75b6&style=flat"
-          alt="thedarshanb" /> </p>
-
-<h1 align="center">Hi👋 , I'm Darshan B</h1>
-<p align="center">
-     <img align="center" width="100%"
-          src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=21&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Tech+Enthusiast" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thedarshanb&label=Profile%20views&color=orange&font=Roboto+Mono"
+       alt="thedarshanb" />
 </p>
 
-<p align="center">
-     <img align="center" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
-</p>
-<hr>
 
-[![📄 View
-Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15OIMhFVRLowYi4sK7V_vpzbKbavHoDMg/view?usp=sharing)
+
+![Darshan](https://github.com/user-attachments/assets/0aba6868-fd8a-4800-90c8-4ad1f34ad9e0)
+
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=30&duration=3000&pause=1000&color=F7A876&background=orange&vCenter=true&random=false&lines=Hello;I+am+Darshan;DevOps+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
+
+[![📄 View Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15OIMhFVRLowYi4sK7V_vpzbKbavHoDMg/view?usp=sharing)
+
+-----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-     <a href="https://www.linkedin.com/in/thedarshanb/" target="blank"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-               alt="https://www.linkedin.com/in/thedarshanb/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/thedarshanb/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "
+         alt="LinkedIn - thedarshanb" height="30" width="40"/>
+  </a>
 </p>
 
+----
 
-<hr>
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-<p align="left">
-     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-               alt="aws" width="40" height="40" /> </a>
-     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-               alt="linux" width="40" height="40" /></a>
-     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-     </a>
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-          <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"
-                    alt="Ansible" width="40" height="40" /> </a>
-          <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
-                    alt="Terraform" width="40" height="40" /> </a>
-          <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-               <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"
-                    height="40" /></a>
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                    alt="docker" width="40" height="40" /> </a>
-          <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-               <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-                    height="40" /> </a>
-          <a href="https://www.python.org" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python" width="40" height="40" /> </a>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                    alt="html5" width="40" height="40" /> </a>
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                    alt="css3" width="40" height="40" /> </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                    alt="JavaScript" width="40" height="40" /></a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                    alt="mysql" width="40" height="40" /> </a>
-          <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-               <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"
-                    height="40" />
-          </a>
-          <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
-                    alt="jira" width="40" height="40" />
-          </a>
+
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  </a>
+
+  <a href="https://www.ansible.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/>
+  </a>
+
+  <a href="https://www.terraform.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
+  </a>
+
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
+  </a>
+
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  </a>
+
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
+  </a>
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  </a>
+
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  </a>
+
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40" height="40" alt="Jira"/>
+  </a>
 
 </p>
 
-<p><img align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarshanb&show_icons=true&locale=en&layout=compact"
-          alt="thedarshanb" /></p>
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarshanb&show_icons=true&locale=en&layout=compact"
+       alt="Top Languages" />
+</p>
