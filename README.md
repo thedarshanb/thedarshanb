@@ -13,8 +13,8 @@
   </a>
 </h1>
 
-[![📄 View Resume](https://img.shields.io/badge/Resume-View-orange?font=Roboto+Monostyle=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15OIMhFVRLowYi4sK7V_vpzbKbavHoDMg/view?usp=sharing)
 
+[![📄 View Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/15OIMhFVRLowYi4sK7V_vpzbKbavHoDMg/view?usp=sharing)
 -----
 
 
