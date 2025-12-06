@@ -98,9 +98,27 @@
 
 </p>
 
+
+
+<!-- Top Languages -->
+<p align="left">
+  <img 
+       src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=thedarshanb&layout=compact&show_icons=true"
+       alt="Top Languages" 
+  />
+</p>
+
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedarshanb&show_icons=true&locale=en&layout=compact"
-       alt="Top Languages" />
+### GitHub Status:
+<p align="left">
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=thedarshanb" 
+       alt="GitHub Streak" 
+  />
 </p>
+
+---
+
+
+
