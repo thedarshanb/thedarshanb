@@ -107,17 +107,16 @@
   />
 </p>
 
----
 
-### GitHub Status:
-<p align="left">
+
+
+<!-- <p align="left">
   <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=thedarshanb" 
        alt="GitHub Streak" 
   />
-</p>
+</p> -->
 
----
 
 
 
