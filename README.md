@@ -27,15 +27,6 @@
 </p>
 
 ---
-<!-- Top Languages -->
-<p align="left">
-  <img 
-       src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=thedarshanb&layout=compact&show_icons=true"
-       alt="Top Languages" 
-  />
-</p>
-
-----
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -106,6 +97,16 @@
   </a>
 
 </p>
+
+---
+<!-- Top Languages -->
+<p align="left">
+  <img 
+       src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=thedarshanb&layout=compact&show_icons=true"
+       alt="Top Languages" 
+  />
+</p>
+
 
 
 
