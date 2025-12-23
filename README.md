@@ -16,7 +16,7 @@
 
 
 [![📄 View
-Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/18htL06Zse7EoyZ1Pwp2KNP_ABhTPxuS1/view?usp=sharing)
+Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/11zR2WkUXwOFFLYXDaNJT01qxrj7z0Ego/view?usp=sharing)
 -----
 
 
@@ -88,12 +88,12 @@ Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira"
                width="40" height="40" />
      </a>
-
 </p>
 
----
-<!-- Top Languages -->
-<p align="left">
-     <img src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=thedarshanb&layout=compact&show_icons=true"
-          alt="Top Languages" />
-</p>
+
+
+
+
+
+
+
