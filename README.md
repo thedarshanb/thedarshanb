@@ -15,10 +15,6 @@
 </h1>
 
 
-[![📄 View
-Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Q8_3naCaLXZL9cyM5Hu43ug70hVDrQ2W/view?usp=drive_link)
------
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
