@@ -93,4 +93,4 @@
 
 [![📄 View
 Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ZdT66BC3JEniCVI7LxSwoA_wxBh4aZ_y/view?usp=drive_link)
------
+
