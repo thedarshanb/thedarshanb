@@ -16,9 +16,7 @@
 
 
 
-[![📄 View
-Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ZdT66BC3JEniCVI7LxSwoA_wxBh4aZ_y/view?usp=drive_link)
------
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -90,3 +88,9 @@ Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo
           <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4"
               alt="cursor ai" width="40" height="40"/></a>
 </p>
+
+-----
+
+[![📄 View
+Resume](https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ZdT66BC3JEniCVI7LxSwoA_wxBh4aZ_y/view?usp=drive_link)
+-----
