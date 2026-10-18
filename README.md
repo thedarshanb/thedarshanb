@@ -1,7 +1,7 @@
-<p align="left">
+<!-- <p align="left">
      <img src="https://komarev.com/ghpvc/?username=thedarshanb&label=Profile%20views&color=orange&font=Roboto+Mono"
           alt="thedarshanb" />
-</p>
+</p> -->
 
 
 
